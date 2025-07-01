@@ -1,3 +1,5 @@
+![Banner](assets/github_banner.png)
+
 # Robotic Pipetting Protocol Simulator
 
 A Next.js web application that simulates liquid-handling robot protocols for normalizing DNA concentrations to a target of 20 ng/µL with volume constraints and precision requirements.
