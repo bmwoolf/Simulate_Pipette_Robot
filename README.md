@@ -4,8 +4,6 @@
 
 A Next.js web application that simulates liquid-handling robot protocols for normalizing DNA concentrations to a target of 20 ng/µL with volume constraints and precision requirements.
 
-![Homepage](assets/homepage.png)
-
 ## Features
 
 - **CSV File Upload**: Drag and drop or browse to upload sample concentration data
@@ -45,6 +43,8 @@ npm run dev
 ```
 
 4. Open [http://localhost:3000](http://localhost:3000) in your browser.
+
+![Homepage](assets/homepage.png)
 
 ## Usage
 
