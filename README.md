@@ -28,7 +28,7 @@ A Next.js web application that simulates liquid-handling robot protocols for nor
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+git clone https://github.com/bmwoolf/Simulate_Pipette_Robot.git
 cd Simulate_Pipette_Robot
 ```
 
